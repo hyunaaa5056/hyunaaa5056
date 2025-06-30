@@ -1,5 +1,5 @@
 <h1 align="center">안녕하세요 👋, 저는 박현아입니다.</h1>
-<h3 align="center">인도 출신의 열정적인 프론트엔드 개발자입니다.</h3>
+<h3 align="center"> 열정적인 프론트엔드 개발자입니다.</h3>
 
 <h3 align="left">저와 소통하세요:</h3>
 <p align="left">
